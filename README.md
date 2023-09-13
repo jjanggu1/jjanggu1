@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
     <br/>
     <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjanggu1&layout=compact)](https://github.com/jjanggu1/github-readme-stats)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=jjanggu1&layout=compact)](https://github.com/jjanggu1/github-readme-stats
 </div>
 
 <!--
