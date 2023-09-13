@@ -2,7 +2,8 @@
   <h1>Dongjin Shin 💻</h1>
 </div>
 <div align="center">
-  <p>프론트엔드 개발자 신동진입니다.</p>
+  <hr>
+  <p>안녕하세요! 프론트엔드 개발자가 되고 싶은 신동진입니다.</p>
   <h3>Skills 🏷️</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -20,10 +21,13 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   </p>
+  <br>
+  <br>
+    
   <h3>Studying ✍️</h3>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-    <br/>
-    <br/>
+    <br>
+    <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjanggu1)](https://github.com/jjanggu1/github-readme-stats)
 </div>
 
