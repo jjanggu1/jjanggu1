@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Dongjin Shin 💻</h1>
-  
 </div>
+프론트엔드 개발자 신동진입니다.
 <!--
 **jjanggu1/jjanggu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
