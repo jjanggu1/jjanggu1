@@ -10,17 +10,18 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Chartdotjs-FF6384?style=flat&logo=chartdotjs&logoColor=white"/>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-#F24E1E?style=flat&logo=figma&logoColor=white"/>
   </p>
   <h3>✍️ STUDYING...</h3>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-  
 </div>
 
 <!--
