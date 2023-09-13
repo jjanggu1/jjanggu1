@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Dongjin Shin 💻</h1>
 
-  <p>안녕하세요! 프론트엔드 개발자가 되고 싶은 신동진입니다.</p>
+  <p>안녕하세요! 프론트엔드 개발자 신동진입니다.</p>
   <h3>Skills 🏷️</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
