@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <p>프론트엔드 개발자 신동진입니다.</p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 
 
 </div>
