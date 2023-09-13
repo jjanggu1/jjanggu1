@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Dongjin Shin 💻</h1>
-  <hr/>
   
 </div>
 <!--
