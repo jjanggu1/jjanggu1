@@ -18,7 +18,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-#F24E1E?style=flat&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   </p>
   <h3>✍️ STUDYING...</h3>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
