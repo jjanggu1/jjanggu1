@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Dongjin Shin 💻</h1>
-</div>
-<div align="center">
+
   <p>안녕하세요! 프론트엔드 개발자가 되고 싶은 신동진입니다.</p>
   <h3>Skills 🏷️</h3>
   <p>
