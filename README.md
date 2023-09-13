@@ -22,7 +22,6 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   </p>
   <br>
-  <br>
     
   <h3>Studying ✍️</h3>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
