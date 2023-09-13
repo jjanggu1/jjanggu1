@@ -22,6 +22,9 @@
   </p>
   <h3>✍️ STUDYING...</h3>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+    <br/>
+    <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
 </div>
 
 <!--
