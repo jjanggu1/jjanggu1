@@ -26,7 +26,7 @@
     <br>
 </div>
 
-![](https://komarev.com/ghpvc/?username={jjanggu1})
+![](https://komarev.com/ghpvc/?username={sdj970514@naver.com})
 
 <!--
 **jjanggu1/jjanggu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
