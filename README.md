@@ -21,9 +21,11 @@
   </p>
     
   <h3>Studying ✍️</h3>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-    <br>
-    <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <br>
+  <br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjanggu1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 </div>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjanggu1%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
